@@ -1,0 +1,15 @@
+schema_version: "0.1"
+status: "INITIAL"
+
+bridges: []
+
+# Example shape:
+# - bridge_id: "BRIDGE-001"
+#   source_system: "SYSTEM-A"
+#   source_capability: "CAP-A"
+#   target_system: "SYSTEM-B"
+#   target_capability: "CAP-B"
+#   interface_version: "0.1"
+#   status: "PROPOSED"
+#   evidence_refs: []
+#   qualification_state: "NOT_MEASURED"
